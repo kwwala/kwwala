@@ -1,7 +1,6 @@
-    👋 opa, eu sou o @kwwala!
-    👀 estou interessado em aprender linguagens de programação
-    🌱 ultimamente estou aprendendo python, html e css
-    🏫 estou estudando no @ifrn
+    👋 Opa, eu sou o @kwwala!
+    👀 Estou interessado em aprender linguagens de programação
+    📖 Ultimamente estou aprendendo python, HTML e CSS
     
-    📫 contato: contatokwwala@gmail.com
+    📫 Contato: contatokwwala@gmail.com
     
