@@ -1,5 +1,5 @@
-    👋 Opa, eu sou o @kwwala!
-    👀 Estou interessado em aprender diversas linguagens de programação.
-    📖 Ultimamente estou aprendendo Python, HTML e CSS.
-    📫 Contato: contatokwwala@gmail.com
+    👋 opa, eu sou o @kwwala!
+    👀 estou interessado em aprender diversas linguagens de programação.
+    📖 ultimamente estou aprendendo Python, HTML e CSS.
+    📫 contato: contatokwwala@gmail.com
     
